@@ -28,7 +28,7 @@ int main()
 ```
 
 **Output : Enter name : Aaruni
-Enter Roll No. : 2221022
+Enter Roll No. : 2221002
 Displaying Information
 Name : Aaruni
 Roll No.: 2221002**
