@@ -1,10 +1,10 @@
-###Write a code to display Hello wWorld
+### Program 1: Write a code to display Hello World
 ```c
 #include <stdio.h>
+
 int main() {
-   // printf() displays the string inside quotation
-   printf("Hello World");
+   printf("Hello World!");
    return 0;
 }
 ```
-**outputHello World
+**Output: Hello World!
